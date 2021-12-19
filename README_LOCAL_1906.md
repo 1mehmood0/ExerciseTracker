@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -69,11 +68,3 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-=======
-# ExerciseTracker
-This web application is made using MERN while learning about it.
-This is a demo application created to apply the basic functionality of React ,MongoDB,Express,Node.
-In this you can add exercise details and it gets updated in realtime.
-All the edits gets upadted in the sameway.
-Thankyou.
->>>>>>> 1ba84c145b99c87c1a54683bea972ed7b3b95ae8
